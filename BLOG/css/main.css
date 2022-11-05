@@ -246,9 +246,11 @@ main .blog-post-text h2 {
 }
 .blogpost-img-container img {
     width: 100%;
+    height: 900px;
 }
 .blogpost-main-container {
     padding: 0px 50px 40px;
+    text-align: justify;
 }
 .blogpost-main-container h3 {
     border-bottom: 1px solid #cdd2da;
